@@ -1,2 +1,2 @@
 # MIPS Processor
-This repository documents the work I undertook during my sixth semester at BITS Pilani in the course on Computer Architecture. During the course of a semester I was required to implement both the pipelined as well as non-pipelined versions of the MIPS processor.
+This repository documents the work I undertook during my sixth semester at BITS Pilani in the course on Computer Architecture. During the course of a semester I was required to implement both the pipelined as well as non-pipelined versions of the MIPS processor. In addition to the processor implementations, this repository also contains my solutions to the weekly labs conducted in this course.
